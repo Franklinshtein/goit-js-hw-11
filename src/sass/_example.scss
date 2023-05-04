@@ -88,15 +88,12 @@ a {
   object-fit: cover;
 }
 
-
 .is-hidden {
     position: absolute;
-  
     margin: -1px;
     padding: 0;
     width: 1px;
     height: 1px;
-  
     border: 0;
   
     white-space: nowrap;
@@ -124,7 +121,6 @@ a {
     transition: transform 0.3s ease-out;
     background-color:#dae4e5;
   }
-  
   .photo-card:hover {
     transform: translate(-5px, -5px);
   }
@@ -132,5 +128,3 @@ a {
   .image-link{
     cursor: zoom-in;
   }
-
-  
